@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ <h2>Rectangle.java\ -\ This\ program\ represents\ a\ rectangle.</h2>\n\n\ @author\:\ Will\ Bouasisavath\n\ @version\:\ 8/28/2021\n
+comment1.params=len\ w
+comment1.target=Rectangle(double,\ double)
+comment1.text=\ \n\ Constructor\ method\n\ \n\ @param\ len\ length\n\ @param\ w\ width\n
+comment2.params=
+comment2.target=void\ calculateArea()
+comment2.text=\n\ Method\ that\ calculates\ area\n\ \n\ @return\ calculateArea\n
+numComments=3

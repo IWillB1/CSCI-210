@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\n\ <h2>Stacks\ -\ implement\ a\ stack</h2>\ \n\ CSCI\ 210\ -\ Intro\ to\ Stacks\n\ @author\ Will\ Bouasisavath\n\ @version\ Lab\ 2,\ 9/5/2020\n
+comment1.params=
+comment1.target=Stack()
+comment1.text=\n\ Constructor\ to\ create\ stack\ \n
+comment2.params=x
+comment2.target=void\ push(int)
+comment2.text=\n\ Push\ Method\ to\ check\ is\ top\ is\ equal\ to\ MAX-1\ \n\ \n\ @param\ int\ x\ to\ be\ pushed\n
+comment3.params=
+comment3.target=int\ pop()
+comment3.text=\n\ Pop\ method\ to\ check\ is\ stack\ is\ underflow\n\ \n\ @return\ x\ element\n\ \n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\n\ Method\ to\ check\ if\ stack\ is\ empty\n\ \n\ @return\ true\ or\ false\n
+numComments=5

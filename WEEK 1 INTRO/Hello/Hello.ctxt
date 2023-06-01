@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hello
+comment0.text=\n\ Hello\ is\ an\ example\ of\ Java\ class\ syntax.\n\ \n\ @author\ Will\ Bouasisavath\n\ @version\ 8/27/2021\n
+comment1.params=
+comment1.target=Hello()
+comment1.text=\n\ Constructor\ method\ for\ objects\ of\ class\ Hello\n
+comment2.params=
+comment2.target=void\ sayHello()
+comment2.text=\n\ Example\ method\ that\ sends\ output\ to\ the\ Terminal\ Window\n
+numComments=3
