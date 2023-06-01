@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=QueueOverflowException
+comment0.text=\n\ QueueOverflowException.java\ -\ This\ runtime\ exception\ used\ when\ trying\ to\ insert\ element\ in\ full\ queue\n\ \n\ @author\ Will\ Bouasisavath\n\ @version\ Lab\ 4,\ 10/10/2020\n
+comment1.params=
+comment1.target=QueueOverflowException()
+comment2.params=message
+comment2.target=QueueOverflowException(java.lang.String)
+numComments=3
