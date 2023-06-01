@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Exponent
+comment1.params=x\ n
+comment1.target=int\ exp(int,\ int)
+numComments=2

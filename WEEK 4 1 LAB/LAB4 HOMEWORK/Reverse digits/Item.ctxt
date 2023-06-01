@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=
+comment1.target=Item()
+comment2.params=info
+comment2.target=Item(java.lang.Object)
+comment3.params=i
+comment3.target=void\ setNext(Item)
+numComments=4

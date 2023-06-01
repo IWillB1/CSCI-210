@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LinkedStack
+comment0.text=\n\ <h2>LinkedStack\ -\ The\ application\ will\ be\ to\ add\ large\ numbers</h2>\n\ CSCI\ 210\ -\ Dynamic\ Implementation\ of\ Stack\n\ @author\ Will\ Bouasisavath\n\ @version\ Lab\ 4,\ 10/10/2020\n
+comment1.params=
+comment1.target=LinkedStack()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LinkedStack\n
+comment2.params=element
+comment2.target=void\ push(java.lang.Object)
+comment2.text=\n\ Push\ Method\n\ \n\ @param\ Object\ to\ be\ pushed\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\n\ Pop\ Method\ \n\ \n\ @return\ info\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\n\ isEmpty\ evaluates\ if\ the\ stack\ is\ empty\n\ \n\ @return\ top\ \=\=\ null\n
+numComments=5
